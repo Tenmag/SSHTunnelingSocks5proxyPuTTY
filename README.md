@@ -14,6 +14,10 @@ Firefox <about:config>
 
 Set Firefox network connection settings to manual proxy configuration, Socks v5, Socks host 127.0.0.1 port 8080 (check Proxy DNS when using Socks v5).
 
+---
+
+[Donate/Támogatás](https://paypal.me/Tenmag)
+
 
 [PuTTY]: https://the.earth.li/~sgtatham/putty/latest/w32/plink.exe
 [KiTTY]: https://www.9bis.net/kitty/?file=klink.exe
